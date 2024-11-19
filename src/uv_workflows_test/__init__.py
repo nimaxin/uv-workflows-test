@@ -2,4 +2,4 @@ def hello() -> str:
     
     
     
-    return 'Hello from uv-workflows-test!'
+    return 'the text has been changed'
