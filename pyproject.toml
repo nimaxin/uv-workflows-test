@@ -1,0 +1,14 @@
+[project]
+name = "uv-workflows-test"
+version = "0.1.0"
+description = "a project for testing uv github actions"
+readme = "README.md"
+authors = [
+    { name = "nimaxin", email = "nimaxin@proton.me" }
+]
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
